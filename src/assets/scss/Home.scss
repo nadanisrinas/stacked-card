@@ -1,0 +1,10 @@
+@import "~bootstrap/scss/bootstrap";
+
+@media only screen and (max-width: 600px){	
+	.section-button{
+        transform: translate(40px,200px);
+    }
+}
+.section-button{
+    transform: translate(40px,150px);
+}
